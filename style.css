@@ -1,0 +1,22 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: #7968c8;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;
+    font-size: 50px;
+
+}
+
+
